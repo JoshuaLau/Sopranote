@@ -86,7 +86,6 @@
         app:layout_constraintVertical_bias="0.261"
         app:srcCompat="@drawable/quarter_note" />
 
-
     <ImageView
         android:id="@+id/c1"
         android:layout_width="wrap_content"
@@ -151,6 +150,7 @@
         app:layout_constraintTop_toTopOf="@+id/staff"
         app:layout_constraintVertical_bias="0.345"
         app:srcCompat="@drawable/backwards_note" />
+
 
 
     <ImageView
@@ -244,7 +244,6 @@
         app:layout_constraintVertical_bias="0.261"
         app:srcCompat="@drawable/quarter_note" />
 
-
     <ImageView
         android:id="@+id/c2"
         android:layout_width="wrap_content"
@@ -309,7 +308,6 @@
         app:layout_constraintTop_toTopOf="@+id/staff"
         app:layout_constraintVertical_bias="0.345"
         app:srcCompat="@drawable/backwards_note" />
-
 
     <ImageView
         android:id="@+id/f2"
@@ -401,7 +399,6 @@
         app:layout_constraintTop_toTopOf="@+id/staff"
         app:layout_constraintVertical_bias="0.261"
         app:srcCompat="@drawable/quarter_note" />
-
 
     <ImageView
         android:id="@+id/c3"
@@ -559,7 +556,6 @@
         app:layout_constraintVertical_bias="0.261"
         app:srcCompat="@drawable/quarter_note" />
 
-
     <ImageView
         android:id="@+id/c4"
         android:layout_width="wrap_content"
@@ -624,7 +620,6 @@
         app:layout_constraintTop_toTopOf="@+id/staff"
         app:layout_constraintVertical_bias="0.345"
         app:srcCompat="@drawable/backwards_note" />
-
 
     <ImageView
         android:id="@+id/f4"
